@@ -3,7 +3,8 @@
 Plain text is encrypted using this encryption method so that only the intended recipient can decipher it.
 +
 +
-+Features:
++
++ Features:
 +
 1. Encrypt plaintext messages using a specified key (shift).
 2. Decrypt ciphertexxt messages using the same key used for encryption.
