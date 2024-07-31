@@ -1,4 +1,4 @@
-# PRASUNET_CS_01
+
 This project implements a simple Ceaser Cipher encryption and decryption tool. Caesar Cipher, a cryptographic technique used to encrypt and decrypt messages. 
 Plain text is encrypted using this encryption method so that only the intended recipient can decipher it.
 
